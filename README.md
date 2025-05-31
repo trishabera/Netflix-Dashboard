@@ -19,17 +19,17 @@ So, this dashboard solves that problem.
 -	Make it look vibey with that classic Netflix red-black aesthetic.
 -	Sharpen my skills as a future-ready data analyst.
 4.	Walking Through the Key Visuals
-  4.1	Page 1: Overview
+ - 4.1	Page 1: Overview
     - Cards — KPIs show the scale: 9K titles, 6K movies, 3K shows, 124 countries, and 42 genres.
     - Donut chart — that’s showing ~70% movies vs ~30% shows.
     - Column chart on ratings - ‘Mature’ content is the boss here.
     - Treemap(That’s a genre explosion) — International Movies, Dramas, Comedies dominate big time.
-  4.2	Page 2: Country & Genre Drilldown
+ - 4.2	Page 2: Country & Genre Drilldown
     - Dynamic slicers let you pick any country or genre.
     - Column chart - To know which countries stream the most? And which country is dominated by which type 
     - World map - Yes, it’s giving global domination energy.
     - On the right, a genre-by-country matrix.
-  4.3	Page 3: Trends Over Time
+ - 4.3	Page 3: Trends Over Time
     - How content evolved over time? For this you’ve got line charts.
     - See the content spike post-2015? Netflix went turbo mode.
     - Avg movie duration is pretty stable over the years.
